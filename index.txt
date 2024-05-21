@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Aharon Gross
+Aharon Gross
 Web developer
 
 Show Contacts
