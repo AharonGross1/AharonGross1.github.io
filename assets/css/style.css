@@ -197,12 +197,8 @@
     display: block;
     animation: fade 0.5s ease backwards;
   }
-  
-  .about_me_highlight {
-    color: #ffdb70;
-    font-weight: bold;
-  }
-  
+
+
   @keyframes fade {
     0% { opacity: 0; }
     100% { opacity: 1; }
